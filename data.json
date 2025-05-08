@@ -1,0 +1,102 @@
+[
+    {
+        "article_time": "2025-05-08",
+        "article_title": "Взлом STEAM? Или странный баг…",
+        "article_link": "https://habr.com/ru/articles/907970/"
+    },
+    {
+        "article_time": "2025-05-08",
+        "article_title": "Про конфигурацию go приложений и при чём тут vault",
+        "article_link": "https://habr.com/ru/articles/907966/"
+    },
+    {
+        "article_time": "2025-05-08",
+        "article_title": "Измерение собственного напряжения питания микроконтроллера",
+        "article_link": "https://habr.com/ru/articles/907954/"
+    },
+    {
+        "article_time": "2025-05-08",
+        "article_title": "Распознавание орхоно-енисейских рунических надписей методами машинного обучения",
+        "article_link": "https://habr.com/ru/companies/fa/articles/907950/"
+    },
+    {
+        "article_time": "2025-05-08",
+        "article_title": "Не «я решил», а «давайте обсудим» — Open Decision Framework",
+        "article_link": "https://habr.com/ru/articles/907906/"
+    },
+    {
+        "article_time": "2025-05-08",
+        "article_title": "Четыре проблемы GPT",
+        "article_link": "https://habr.com/ru/articles/907878/"
+    },
+    {
+        "article_time": "2025-05-08",
+        "article_title": "Что даётся россиянам тяжелее всего при обучении за рубежом?",
+        "article_link": "https://habr.com/ru/articles/907918/"
+    },
+    {
+        "article_time": "2025-05-08",
+        "article_title": "Системы АФЛТ-Системс FlyBag (Электронный портфель пилота)",
+        "article_link": "https://habr.com/ru/articles/907940/"
+    },
+    {
+        "article_time": "2025-05-08",
+        "article_title": "Wormhole Messenger — минималистичный P2P-мессенджер на Rust с end-to-end шифрованием",
+        "article_link": "https://habr.com/ru/articles/907934/"
+    },
+    {
+        "article_time": "2025-05-08",
+        "article_title": "Псевдослучайный рандом в Python",
+        "article_link": "https://habr.com/ru/articles/907930/"
+    },
+    {
+        "article_time": "2025-05-08",
+        "article_title": "Личный опыт «вайб-кодинга» глазами руководителя разработки",
+        "article_link": "https://habr.com/ru/articles/907926/"
+    },
+    {
+        "article_time": "2025-05-08",
+        "article_title": "Про самодельную систему активного шумоподавления для городской квартиры",
+        "article_link": "https://habr.com/ru/companies/ruvds/articles/904788/"
+    },
+    {
+        "article_time": "2025-05-08",
+        "article_title": "Депо раздора",
+        "article_link": "https://habr.com/ru/articles/907780/"
+    },
+    {
+        "article_time": "2025-05-08",
+        "article_title": "Как мы упростили развертывание почтового сервиса для тестирования или сказ про Mailpit — он же сервис fakemail\\mailtrap",
+        "article_link": "https://habr.com/ru/articles/907922/"
+    },
+    {
+        "article_time": "2025-05-08",
+        "article_title": "Чтение на выходные: «Иконы графического дизайна» Джона Клиффорда",
+        "article_link": "https://habr.com/ru/companies/onlinepatent/articles/907670/"
+    },
+    {
+        "article_time": "2025-05-08",
+        "article_title": "Я портировала знаменитую утилиту Fetch на ReactOS",
+        "article_link": "https://habr.com/ru/articles/907916/"
+    },
+    {
+        "article_time": "2025-05-08",
+        "article_title": "Paging3 в стиле Compose: секретный DSL, о котором молчат все Android-разработчики",
+        "article_link": "https://habr.com/ru/articles/907910/"
+    },
+    {
+        "article_time": "2025-05-08",
+        "article_title": "Орган-на-чипе",
+        "article_link": "https://habr.com/ru/articles/907908/"
+    },
+    {
+        "article_time": "2025-05-08",
+        "article_title": "Как ChatGPT усугубляет психологические проблемы пользователей, которые используют его в качестве психолога",
+        "article_link": "https://habr.com/ru/articles/907902/"
+    },
+    {
+        "article_time": "2025-05-08",
+        "article_title": "Обзор пяти докладов конференции PgBootcamp 2025",
+        "article_link": "https://habr.com/ru/articles/907900/"
+    }
+]
